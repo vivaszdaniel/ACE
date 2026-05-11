@@ -1,0 +1,21 @@
+
+# ⚖️ `LICENSE` (GNU General Public License v3.0)
+# =============================================================================
+# AIKC-IBI-ACE-Validation: Python Dependencies
+# Repository: https://github.com/vivaszdaniel/ACE
+# =============================================================================
+# Core Scientific & Data Processing
+numpy>=1.21.0
+pandas>=1.4.0
+scipy>=1.7.0
+cdflib>=0.3.19
+
+# Visualization
+matplotlib>=3.5.0
+
+# System & Utilities (Built-in, listed for completeness)
+# sys, os, time, threading, datetime, warnings (Python Standard Library)
+# =============================================================================
+# Installation: pip install -r requirements.txt
+# No virtual environment required. Compatible with Python 3.9+.
+# =============================================================================
